@@ -10,5 +10,9 @@
     "contract": "yarn workspace contract",
     "client": "yarn workspace client",
     "test": "yarn workspace contract test"
-  }
+  },
+  "main": "index.js",
+  "repository": "git@github.com:TAC-18/ETH-dApp.git",
+  "license": "MIT",
+  "packageManager": "yarn@4.0.2"
 }
